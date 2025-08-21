@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Test app"
+rootProject.name = "Touch NoteBook"
 include(":app")
